@@ -1,2 +1,2 @@
 # Ecom_demo
-my demo git repo for ecom_project
+  git repo for ecom_project
